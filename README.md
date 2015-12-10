@@ -1,0 +1,2 @@
+# ExampleSingleton
+Example Logger Java
